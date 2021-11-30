@@ -1,4 +1,4 @@
-package com.example.tvs_alimentation
+package com.sivithu.tvs_alimentation
 
 import org.junit.Test
 

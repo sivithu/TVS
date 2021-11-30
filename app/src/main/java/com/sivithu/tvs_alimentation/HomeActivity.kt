@@ -1,4 +1,4 @@
-package com.example.tvs_alimentation
+package com.sivithu.tvs_alimentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

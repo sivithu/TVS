@@ -1,4 +1,4 @@
-package com.example.tvs_alimentation
+package com.sivithu.tvs_alimentation
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

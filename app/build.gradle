@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.example.tvs_alimentation"
+        applicationId "com.sivithu.tvs_alimentation"
         minSdk 26
         targetSdk 31
         versionCode 1
@@ -41,7 +41,6 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
-    implementation 'com.mikhaellopez:circularprogressbar:3.1.0'
     implementation 'com.github.Marvel999:Arc-Progressbar-lib:1.0.0'
 
 }
